@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWSTest", "AWSTest\AWSTest.csproj", "{8FC23871-FAD3-4757-A83B-6D0FB217336B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWSTestApp", "AWSTestApp\AWSTestApp.csproj", "{C7BD6A78-54FC-4690-B123-CEFB8C70AECE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{8FC23871-FAD3-4757-A83B-6D0FB217336B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8FC23871-FAD3-4757-A83B-6D0FB217336B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8FC23871-FAD3-4757-A83B-6D0FB217336B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8FC23871-FAD3-4757-A83B-6D0FB217336B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7BD6A78-54FC-4690-B123-CEFB8C70AECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7BD6A78-54FC-4690-B123-CEFB8C70AECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7BD6A78-54FC-4690-B123-CEFB8C70AECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7BD6A78-54FC-4690-B123-CEFB8C70AECE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
